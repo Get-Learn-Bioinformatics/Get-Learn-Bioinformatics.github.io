@@ -1,0 +1,59 @@
+ra_1:
+  name: "Amin Md"
+  linkedin: "https://www.linkedin.com/in/aminmd"
+  email: "amin@example.com"
+  image: "Team/images/amin.jpg"
+
+ra_2:
+  name: "John Doe"
+  linkedin: "https://www.linkedin.com/in/johndoe"
+  email: "john@example.com"
+  image: "Team/images/john.jpg"
+
+ra_3:
+  name: "Jane Smith"
+  linkedin: "https://www.linkedin.com/in/janesmith"
+  email: "jane@example.com"
+  image: "Team/images/jane.jpg"
+
+ra_4:
+  name: "Alice Brown"
+  linkedin: "https://www.linkedin.com/in/alicebrown"
+  email: "alice@example.com"
+  image: "Team/images/alice.jpg"
+
+ra_5:
+  name: "Bob White"
+  linkedin: "https://www.linkedin.com/in/bobwhite"
+  email: "bob@example.com"
+  image: "Team/images/bob.jpg"
+
+ra_6:
+  name: "Carol Green"
+  linkedin: "https://www.linkedin.com/in/carolgreen"
+  email: "carol@example.com"
+  image: "Team/images/carol.jpg"
+
+ra_7:
+  name: "David Black"
+  linkedin: "https://www.linkedin.com/in/davidblack"
+  email: "david@example.com"
+  image: "Team/images/david.jpg"
+
+ra_8:
+  name: "Eva Grey"
+  linkedin: "https://www.linkedin.com/in/evagrey"
+  email: "eva@example.com"
+  image: "Team/images/eva.jpg"
+
+ra_9:
+  name: "Frank Blue"
+  linkedin: "https://www.linkedin.com/in/frankblue"
+  email: "frank@example.com"
+  image: "Team/images/frank.jpg"
+
+ra_10:
+  name: "Grace Red"
+  linkedin: "https://www.linkedin.com/in/gracered"
+  email: "grace@example.com"
+  image: "Team/images/grace.jpg"

@@ -1,0 +1,38 @@
+---
+title: "Sessions & Talks"
+description: |
+  This page lists all workshops, talks, and sessions with details and thumbnails.
+listing:
+  - id: bioinformatics
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description, image, date]
+    contents: 
+      - talk_1   # AlphaFold
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    filter-ui: false
+
+  - id: scientific
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description, image, date]
+    contents: 
+      - talk_2   # Scientific Design & PowerPoint
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    sort: "priority asc"
+    filter-ui: false
+---
+
+## Bioinformatics Talks
+
+::: {#bioinformatics}
+:::
+
+## Scientific Sessions
+
+::: {#scientific}
+:::

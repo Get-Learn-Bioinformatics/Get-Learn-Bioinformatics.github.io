@@ -1,0 +1,29 @@
+---
+title: "Get Learn Bioinformatics"
+image: img/profile.png
+
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      href: mailto:info.getlearnbioinformatics@gmail.com
+
+    - icon: facebook
+      href: https://facebook.com/getlearnbioinformatics
+      target: _blank
+
+    - text: "FB Group"
+      href: https://facebook.com/groups/934011292608963/
+      target: _blank
+
+    - icon: youtube
+      href: https://youtube.com/@getlearn_bioinformatics
+      target: _blank
+
+    - icon: instagram
+      href: https://instagram.com/p/DVtQOwqiUXX/
+      target: _blank
+---
+

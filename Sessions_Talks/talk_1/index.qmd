@@ -1,0 +1,41 @@
+---
+title: "AlphaFold – The Future of Structural Biology"
+description: "Virtual Workshop on AlphaFold"
+date: "2025-12-06"
+time: "21:00-22:30"
+location: "Google Meet"
+image: "image.jpg"
+categories: [bioinformatics]
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rounded
+---
+::: {#hero-heading}
+
+**Overview:**  
+[AlphaFold](https://alphafold.ebi.ac.uk/) is a breakthrough AI tool developed by DeepMind that predicts the 3D structures of proteins from their amino acid sequences. This technology has transformed structural biology, helping researchers understand protein folding, function, and interactions—key for drug design, protein engineering, and functional annotation.  
+This webinar introduced the basics of AlphaFold and showed its potential applications in research. Participants can explore AlphaFold further using the resources below.
+
+---
+
+## **Explore AlphaFold Yourself**
+
+- **AlphaFold Protein Structure Database (EMBL-EBI):**  
+[https://www.alphafold.ebi.ac.uk](https://www.alphafold.ebi.ac.uk) – Search and download predicted protein structures.  
+
+- **ColabFold (Google Colab notebook for predictions):**  
+[https://colab.research.google.com/github/sokrypton/ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold) – Try predictions interactively.  
+
+- **YouTube Overview Video:**  [AlphaFold: The making of a scientific breakthrough]("https://www.youtube.com/watch?v=gg7WjuFs8F4&list=PLqYmG7hTraZAhkAh72kzzLC4r2O4VoVgz") 
+
+
+---
+
+**Key Takeaways:**  
+- AlphaFold predicts protein structures with high accuracy.  
+- Useful for research in drug discovery, molecular biology, and bioinformatics.  
+- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.  
+- Understanding AlphaFold helps participants see the future of computational biology.
+:::
+

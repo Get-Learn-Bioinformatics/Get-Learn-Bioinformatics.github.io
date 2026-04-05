@@ -1,0 +1,1614 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Get Learn Bioinformatics",
+    "section": "",
+    "text": "FB Group\n  \n  \n    \n     \n  \n  \n    \n     \n  \n\n  \n  \n\n\n\nGet Learn Bioinformatics is an educational and research-focused platform dedicated to making bioinformatics, computational biology, and research learning more accessible, practical, and understandable for students, beginners, and aspiring researchers.\nOur goal is to bridge the gap between theoretical knowledge and hands-on skills by providing structured learning opportunities in areas such as basic bioinformatics, research methodology, scientific literature analysis, molecular visualization, protein studies, docking, and computational approaches in life sciences.\nAt Get Learn Bioinformatics, we believe that learning should be clear, skill-based, and research-oriented. Through training sessions, workshops, mentorship, and academic support, we aim to help learners build confidence in using modern bioinformatics tools and develop the foundation needed for higher studies, research projects, and scientific careers.\nWe are committed to creating a learning environment where students can explore, practice, and grow in the field of bioinformatics with proper guidance and real-world application.\nLearn. Explore. Research. Grow."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Author",
+    "section": "",
+    "text": "FB Group\n  \n  \n    \n     \n  \n  \n    \n     \n  \n\n  \n  \n\n\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\n\n\n\nI have developed X R packages, published Y papers.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Author",
+    "section": "",
+    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Author",
+    "section": "",
+    "text": "I have developed X R packages, published Y papers.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#rstats",
+    "href": "talks/index.html#rstats",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#electronic-health-records",
+    "href": "talks/index.html#electronic-health-records",
+    "title": "Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\n\n\n\n\n\n\nLearning from Hospital EHR data with R\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "projects/pkg_2/index.html",
+    "href": "projects/pkg_2/index.html",
+    "title": "pkg_2",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/pkg_1/index.html",
+    "href": "projects/pkg_1/index.html",
+    "title": "pkg_1",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/project_2/index.html",
+    "href": "projects/project_2/index.html",
+    "title": "project_2",
+    "section": "",
+    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\nproject_1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nproject_2\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#grid-listing",
+    "href": "projects/index.html#grid-listing",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#table-listing",
+    "href": "projects/index.html#table-listing",
+    "title": "Projects",
+    "section": "Table listing",
+    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/project_1/index.html",
+    "href": "projects/project_1/index.html",
+    "title": "project_1",
+    "section": "",
+    "text": "In this project I use EHR to explore the hospital transfers."
+  },
+  {
+    "objectID": "talks/talk_1/index.html",
+    "href": "talks/talk_1/index.html",
+    "title": "Building Website in R: Step by Step Introduction to blogdown",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about_template.html",
+    "href": "about_template.html",
+    "title": "About this template",
+    "section": "",
+    "text": "TipAbout this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar.",
+    "crumbs": [
+      "About",
+      "This template"
+    ]
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Author",
+    "section": "",
+    "text": "Hello, I am Author.\nFeel free to edit the text and layout to make this website your own!\nThis is a template with side navigation. Read more about website navigation here.\nIn this template you can find examples of using listing (grid, table, default) in Projects, Talks, Blog. Read more about lists here."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed, M. Z., Billah, M. M., Ferdous, J., & Hossain, M. J.* (2025). Pan-cancer analysis reveals immunological and prognostic significance of CCT5 in human tumors. Scientific Reports, 15, 14405. https://doi.org/10.1038/s41598-025-88339-z\nFariha, F. T. J., Fuad, M., Saha, C. S., Hossen, S., & Hossain, M. J.* (2025). Comprehensive bioinformatics analysis reveals prognostic significance and immunological roles of WNT gene family in breast cancer. Scientific Reports, 15, 34490. https://doi.org/10.1038/s41598-025-13315-6",
+    "crumbs": [
+      "Publication"
+    ]
+  },
+  {
+    "objectID": "publications/index.html#peer-reviewed",
+    "href": "publications/index.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed, M. Z., Billah, M. M., Ferdous, J., & Hossain, M. J.* (2025). Pan-cancer analysis reveals immunological and prognostic significance of CCT5 in human tumors. Scientific Reports, 15, 14405. https://doi.org/10.1038/s41598-025-88339-z\nFariha, F. T. J., Fuad, M., Saha, C. S., Hossen, S., & Hossain, M. J.* (2025). Comprehensive bioinformatics analysis reveals prognostic significance and immunological roles of WNT gene family in breast cancer. Scientific Reports, 15, 34490. https://doi.org/10.1038/s41598-025-13315-6",
+    "crumbs": [
+      "Publication"
+    ]
+  },
+  {
+    "objectID": "publications/index.html#under-review",
+    "href": "publications/index.html#under-review",
+    "title": "Publications",
+    "section": "Under Review",
+    "text": "Under Review\n\nIslam, M. W., Rahman, M. M., Naznin, H., Hossain, M. S., Akter, T., Shatabde, Z. A., & Hossain, M. J.* (2025). Integrative bioinformatics analysis reveals COL13A1 and COL23A1 as potential diagnostic and prognostic biomarkers in thyroid cancer. [Submitted to Health Science Reports].\nIslam, M. W., Fariha, F. T. J., Ahmed, M. Z., Ferdous, J., Lota, H. B., Hossain, M. S., Kundu, P., Shahjahan, M., & Hossain, M. J.* (2025). Bioinformatics-driven multi-omics profiling of CDK1 and CDK6 identifies prognostic and therapeutic roles in breast cancer.[Under Review in Health Science Reports].",
+    "crumbs": [
+      "Publication"
+    ]
+  },
+  {
+    "objectID": "publications/index.html#conference",
+    "href": "publications/index.html#conference",
+    "title": "Publications",
+    "section": "Conference",
+    "text": "Conference\n\nPoster Presentations\n\n+Hossain, M. J., Das, M. (2024). Diagnostic and Electrophysiological Features of Hirayama Disease in Young Adult Male: A Case Report. International Conference of Public Health, Institute of Epidemiology, Disease Control and Research (IEDCR), Dhaka, Bangladesh\n+Das, M., Kajol, M. M., Mim, N. A., Maruf, M. F. I., Hirko, K., *Hossain, M. J. (2024). Level of knowledge regarding breast cancer and breast self‑examination among school and college‑going girls in Bangladesh: A cross‑sectional study. International Conference of Public Health, Institute of Epidemiology, Disease Control and Research (IEDCR), Dhaka, Bangladesh\n\n\n\nOral Presentations\n\n+Tuhin, M. A. A., Mim, N. A., Akter, N., Jamal, F., Sakib, M. N., Mehjabin, K., *Hossain, M. J. (2024). Exploring the Factors Influencing Heat Stress Risks Using the Discomfort Index Method in Bangladesh. International Conference on Environmental Science and Resource Management 2024 (ICESRM 2024), Department of Environmental Science and Resource Management, Mawlana Bhashani Science and Technology University, Bangladesh.\nMim, N. A., Akter, Tuhin, M. A. A., +Hossain, S., Alam, K. E., Mouli, N. J., *Hossain, M. J. (2024). Temporal Trends and Factors Influencing Diarrhea Prevalence Among Children in the Rangamati Hill Tract Region: A Time Series Analysis. International Conference on Environmental Science and Resource Management 2024 (ICESRM 2024), Department of Environmental Science and Resource Management, Mawlana Bhashani Science and Technology University, Bangladesh.",
+    "crumbs": [
+      "Publication"
+    ]
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 25, 2022\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nOct 22, 2022\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching/index.html#class-1",
+    "href": "teaching/index.html#class-1",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching/index.html#class-2",
+    "href": "teaching/index.html#class-2",
+    "title": "Teaching",
+    "section": "Class 2",
+    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching/index.html#class-3",
+    "href": "teaching/index.html#class-3",
+    "title": "Teaching",
+    "section": "Class 3",
+    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "Team/project_2/index.html",
+    "href": "Team/project_2/index.html",
+    "title": "project_2",
+    "section": "",
+    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+  },
+  {
+    "objectID": "Team/pkg_2/index.html",
+    "href": "Team/pkg_2/index.html",
+    "title": "pkg_2",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "Team/index.html",
+    "href": "Team/index.html",
+    "title": "Team Members",
+    "section": "",
+    "text": "Founding Member\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Assistants\n\n\n\n\n\n\n\n\n\n\n\n\nCampus Ambassador\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Team Members"
+    ]
+  },
+  {
+    "objectID": "RA/post-with-code/index.html",
+    "href": "RA/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "RA/welcome/index.html",
+    "href": "RA/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "Team/pkg_1/index.html",
+    "href": "Team/pkg_1/index.html",
+    "title": "pkg_1",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "Team/project_1/index.html",
+    "href": "Team/project_1/index.html",
+    "title": "project_1",
+    "section": "",
+    "text": "In this project I use EHR to explore the hospital transfers."
+  },
+  {
+    "objectID": "index.html#welcome-to-get-learn-bioinformatics",
+    "href": "index.html#welcome-to-get-learn-bioinformatics",
+    "title": "Get Learn Bioinformatics",
+    "section": "",
+    "text": "Get Learn Bioinformatics is an educational and research-focused platform dedicated to making bioinformatics, computational biology, and research learning more accessible, practical, and understandable for students, beginners, and aspiring researchers.\nOur goal is to bridge the gap between theoretical knowledge and hands-on skills by providing structured learning opportunities in areas such as basic bioinformatics, research methodology, scientific literature analysis, molecular visualization, protein studies, docking, and computational approaches in life sciences.\nAt Get Learn Bioinformatics, we believe that learning should be clear, skill-based, and research-oriented. Through training sessions, workshops, mentorship, and academic support, we aim to help learners build confidence in using modern bioinformatics tools and develop the foundation needed for higher studies, research projects, and scientific careers.\nWe are committed to creating a learning environment where students can explore, practice, and grow in the field of bioinformatics with proper guidance and real-world application.\nLearn. Explore. Research. Grow."
+  },
+  {
+    "objectID": "Courses/index.html",
+    "href": "Courses/index.html",
+    "title": "Courses offering from Get Learn Bioinformatics",
+    "section": "",
+    "text": "Basic Research and Bioinformatics Training\n\n\n\n\n\n\n\n\n\n\n\n\nIntegrating CADD & BioPython For Biomedical Research\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Courses/index.html#class-1",
+    "href": "Courses/index.html#class-1",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction.",
+    "crumbs": [
+      "Courses"
+    ]
+  },
+  {
+    "objectID": "Courses/index.html#class-2",
+    "href": "Courses/index.html#class-2",
+    "title": "Courses",
+    "section": "Class 2",
+    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction.",
+    "crumbs": [
+      "Courses"
+    ]
+  },
+  {
+    "objectID": "Courses/index.html#class-3",
+    "href": "Courses/index.html#class-3",
+    "title": "Courses",
+    "section": "Class 3",
+    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction.",
+    "crumbs": [
+      "Courses"
+    ]
+  },
+  {
+    "objectID": "Courses/index.html#basic-hands-on-research-and-bioinformatics-training",
+    "href": "Courses/index.html#basic-hands-on-research-and-bioinformatics-training",
+    "title": "Courses",
+    "section": "1. Basic Hands-on Research and Bioinformatics Training",
+    "text": "1. Basic Hands-on Research and Bioinformatics Training\n\n\n\n\n\nFall 2024,   Fall 2023\nClass 1 introduction.",
+    "crumbs": [
+      "Courses"
+    ]
+  },
+  {
+    "objectID": "Courses/index.html#integrating-cadd-biopython-for-biomedical-research",
+    "href": "Courses/index.html#integrating-cadd-biopython-for-biomedical-research",
+    "title": "Courses",
+    "section": "INTEGRATING CADD & BIOPYTHON FOR BIOMEDICAL RESEARCH",
+    "text": "INTEGRATING CADD & BIOPYTHON FOR BIOMEDICAL RESEARCH\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction.",
+    "crumbs": [
+      "Courses"
+    ]
+  },
+  {
+    "objectID": "Talks/index.html",
+    "href": "Talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "Talks/index.html#rstats",
+    "href": "Talks/index.html#rstats",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "Talks/index.html#electronic-health-records",
+    "href": "Talks/index.html#electronic-health-records",
+    "title": "Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\n\n\n\n\n\n\nLearning from Hospital EHR data with R\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "Sessions & Talks/index.html",
+    "href": "Sessions & Talks/index.html",
+    "title": "Sessions & Talks",
+    "section": "",
+    "text": "Virtual Workshop on AlphaFold\n\n\n\n\n\nDec 6, 2025\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Sessions & Talks"
+    ]
+  },
+  {
+    "objectID": "Sessions & Talks/index.html#rstats",
+    "href": "Sessions & Talks/index.html#rstats",
+    "title": "Sessions & Talks",
+    "section": "",
+    "text": "Virtual Workshop on AlphaFold\n\n\n\n\n\nDec 6, 2025\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Sessions & Talks"
+    ]
+  },
+  {
+    "objectID": "Sessions & Talks/index.html#electronic-health-records",
+    "href": "Sessions & Talks/index.html#electronic-health-records",
+    "title": "Sessions & Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\n\n\n\n\n\n\nScientific Design & PowerPoint: Where Research Meets Visual Communication\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Sessions & Talks"
+    ]
+  },
+  {
+    "objectID": "Sessions & Talks/talk_1/index.html",
+    "href": "Sessions & Talks/talk_1/index.html",
+    "title": "AlphaFold – The Future of Structural Biology",
+    "section": "",
+    "text": "Overview:\nAlphaFold is a breakthrough AI tool developed by DeepMind that predicts the 3D structures of proteins from their amino acid sequences. This technology has transformed structural biology, helping researchers understand protein folding, function, and interactions—key for drug design, protein engineering, and functional annotation.\nThis webinar introduced the basics of AlphaFold and showed its potential applications in research. Participants can explore AlphaFold further using the resources below.\n\n\n\n\nAlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Sessions & Talks/index.html#bioinformatics-talks",
+    "href": "Sessions & Talks/index.html#bioinformatics-talks",
+    "title": "Sessions & Talks",
+    "section": "",
+    "text": "Virtual Workshop on AlphaFold\n\n\n\n\n\nDec 6, 2025\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Sessions & Talks"
+    ]
+  },
+  {
+    "objectID": "Sessions & Talks/index.html#scientific-session",
+    "href": "Sessions & Talks/index.html#scientific-session",
+    "title": "Sessions & Talks",
+    "section": "Scientific Session",
+    "text": "Scientific Session\n\n\n\n\n\n\n\n\n\n\nScientific Design & PowerPoint: Where Research Meets Visual Communication\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Sessions & Talks"
+    ]
+  },
+  {
+    "objectID": "Sessions & Talks/index.html#scientific-sessions",
+    "href": "Sessions & Talks/index.html#scientific-sessions",
+    "title": "Sessions & Talks",
+    "section": "Scientific Sessions",
+    "text": "Scientific Sessions\n\n\n\n\n\n\n\n\n\n\nScientific Design & PowerPoint: Where Research Meets Visual Communication\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Sessions & Talks"
+    ]
+  },
+  {
+    "objectID": "Sessions & Talks/index.html#ehr-data-sessions",
+    "href": "Sessions & Talks/index.html#ehr-data-sessions",
+    "title": "Sessions & Talks",
+    "section": "EHR / Data Sessions",
+    "text": "EHR / Data Sessions\n\n\n\n\n\n\n\n\n\n\nScientific Design & PowerPoint: Where Research Meets Visual Communication\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Sessions & Talks"
+    ]
+  },
+  {
+    "objectID": "Sessions & Talks/talk_1/about.html",
+    "href": "Sessions & Talks/talk_1/about.html",
+    "title": "AlphaFold – The Future of Structural Biology",
+    "section": "",
+    "text": "FB Group\n  \n  \n    \n     \n  \n  \n    \n     \n  \n\n  \n  \n\n\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\n\n\n\nI have developed X R packages, published Y papers."
+  },
+  {
+    "objectID": "Sessions & Talks/talk_1/about.html#education",
+    "href": "Sessions & Talks/talk_1/about.html#education",
+    "title": "Author",
+    "section": "",
+    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022"
+  },
+  {
+    "objectID": "Sessions & Talks/talk_1/about.html#experience",
+    "href": "Sessions & Talks/talk_1/about.html#experience",
+    "title": "AlphaFold – The Future of Structural Biology",
+    "section": "",
+    "text": "I have developed X R packages, published Y papers."
+  },
+  {
+    "objectID": "Sessions & Talks/talk_1/about.html#alphafold-the-future-of-structural-biology",
+    "href": "Sessions & Talks/talk_1/about.html#alphafold-the-future-of-structural-biology",
+    "title": "AlphaFold – The Future of Structural Biology",
+    "section": "",
+    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022"
+  },
+  {
+    "objectID": "Sessions & Talks/talk_1/index.html#alphafold-the-future-of-structural-biology",
+    "href": "Sessions & Talks/talk_1/index.html#alphafold-the-future-of-structural-biology",
+    "title": "AlphaFold – The Future of Structural Biology",
+    "section": "",
+    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022"
+  },
+  {
+    "objectID": "Sessions & Talks/talk_1/index.html#experience",
+    "href": "Sessions & Talks/talk_1/index.html#experience",
+    "title": "AlphaFold – The Future of Structural Biology",
+    "section": "",
+    "text": "I have developed X R packages, published Y papers."
+  },
+  {
+    "objectID": "Sessions & Talks/talk_1/index.html#explore-alphafold-yourself",
+    "href": "Sessions & Talks/talk_1/index.html#explore-alphafold-yourself",
+    "title": "AlphaFold – The Future of Structural Biology",
+    "section": "",
+    "text": "AlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "About/About.html",
+    "href": "About/About.html",
+    "title": "Get Learn Bioinformatics",
+    "section": "",
+    "text": "FB Group\n  \n  \n    \n     \n  \n  \n    \n     \n  \n\n  \n  \n\nAbout Get Learn Bioinformatics\nWho We Are: We are a research and education-focused platform dedicated to making bioinformatics and computational biology accessible for students, beginners, and aspiring researchers.\nWhat We Do: Provide hands-on training in bioinformatics tools and molecular visualization Guide learners through research methodology and scientific literature analysis Offer workshops, mentorship, and academic support for research projects\nOur Mission: To empower learners with practical skills and confidence to explore, analyze, and contribute to scientific research.\nOur Vision: To create a community where students and researchers can grow, innovate, and succeed in bioinformatics and computational biology.\nLearn. Explore. Research. Grow."
+  },
+  {
+    "objectID": "Projects/index.html",
+    "href": "Projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects & Publications"
+    ]
+  },
+  {
+    "objectID": "Publication/index.html",
+    "href": "Publication/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860\n\n\n\n\n\n\n\nTabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Publication/index.html#peer-reviewed",
+    "href": "Publication/index.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860"
+  },
+  {
+    "objectID": "Publication/index.html#under-review",
+    "href": "Publication/index.html#under-review",
+    "title": "Publications",
+    "section": "Under Review",
+    "text": "Under Review\n\nIslam, M. W., Rahman, M. M., Naznin, H., Hossain, M. S., Akter, T., Shatabde, Z. A., & Hossain, M. J.* (2025). Integrative bioinformatics analysis reveals COL13A1 and COL23A1 as potential diagnostic and prognostic biomarkers in thyroid cancer. [Submitted to Health Science Reports].\nIslam, M. W., Fariha, F. T. J., Ahmed, M. Z., Ferdous, J., Lota, H. B., Hossain, M. S., Kundu, P., Shahjahan, M., & Hossain, M. J.* (2025). Bioinformatics-driven multi-omics profiling of CDK1 and CDK6 identifies prognostic and therapeutic roles in breast cancer.[Under Review in Health Science Reports].",
+    "crumbs": [
+      "Publication"
+    ]
+  },
+  {
+    "objectID": "Publication/index.html#conference",
+    "href": "Publication/index.html#conference",
+    "title": "Publications",
+    "section": "",
+    "text": "Tabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "About/About.html#welcome-to-get-learn-bioinformatics",
+    "href": "About/About.html#welcome-to-get-learn-bioinformatics",
+    "title": "Get Learn Bioinformatics",
+    "section": "",
+    "text": "About Get Learn Bioinformatics\nWho We Are: We are a research and education-focused platform dedicated to making bioinformatics and computational biology accessible for students, beginners, and aspiring researchers.\nWhat We Do:\nProvide hands-on training in bioinformatics tools and molecular visualization Guide learners through research methodology and scientific literature analysis Offer workshops, mentorship, and academic support for research projects\nOur Mission: To empower learners with practical skills and confidence to explore, analyze, and contribute to scientific research.\nOur Vision: To create a community where students and researchers can grow, innovate, and succeed in bioinformatics and computational biology.\nLearn. Explore. Research. Grow.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#learn.-explore.-research.-grow.",
+    "href": "index.html#learn.-explore.-research.-grow.",
+    "title": "Get Learn Bioinformatics",
+    "section": "",
+    "text": "about: id: hero-heading template: trestles image-shape: rounded links: - icon: envelope href: mailto:info.getlearnbioinformatics@gmail.com\n- icon: facebook\n  href: https://facebook.com/yourpageusername\n  target: _blank\n- text: \"FB Group\"\n  href: https://facebook.com/groups/934011292608963/\n  target: _blank\n- icon: youtube\n  href: https://youtube.com/@getlearn_bioinformatics\n  target: _blank\n- icon: instagram\n  href: https://instagram.com/p/DVtQOwqiUXX/\n  target: _blank"
+  },
+  {
+    "objectID": "Projects/project_1/index.html",
+    "href": "Projects/project_1/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In this project I use EHR to explore the hospital transfers."
+  },
+  {
+    "objectID": "Courses/course_1/index.html",
+    "href": "Courses/course_1/index.html",
+    "title": "Basic Research and Bioinformatics Training",
+    "section": "",
+    "text": "In this course, foundational research skills and practical bioinformatics techniques, including scientific literature analysis, sequence exploration, and molecular visualization, will be learned by students.\nCourse Overview:\nThis training is designed for beginners and aspiring researchers who want to gain practical knowledge in basic research concepts and bioinformatics. Participants will learn how to approach scientific problems, analyze data, and apply computational tools to biological questions.\nWhat You Will Learn:\n\nResearch Fundamentals: Understanding research design, literature review, hypothesis formulation, and data interpretation\n\nScientific Literature Analysis: How to search, read, and summarize scientific articles efficiently\n\nBioinformatics Tools: Introduction to sequence retrieval, physicochemical analysis, subcellular localization, protein function prediction, and molecular visualization\n\nPractical Exercises: Hands-on training using real datasets to reinforce learning\n\nData Management & Reporting: How to document findings and prepare reports for academic or research purposes\n\nWho Should Attend:\n\nStudents of life sciences, biotechnology, or related fields\n\nBeginners in bioinformatics and computational biology\n\nAnyone interested in learning research methodology and practical bioinformatics skills\n\nCourse Outcomes:\nBy the end of this training, participants will be able to:\n\nConduct literature searches and summarize findings effectively\n\nApply basic bioinformatics analyses on DNA, RNA, and protein sequences\n\nUse molecular visualization tools to explore protein structures\n\nDevelop confidence in approaching small research projects\n\nDrop a message to the page if you are interested to do it."
+  },
+  {
+    "objectID": "Courses/course_2/index.html",
+    "href": "Courses/course_2/index.html",
+    "title": "Integrating CADD & BioPython For Biomedical Research",
+    "section": "",
+    "text": "Course Overview:\nThis course focuses on integrating Computational Drug Design (CADD) and Python programming (BioPython) to address biomedical research problems. Students will learn how to analyze protein structures, study protein-ligand interactions, and apply computational tools for drug discovery and biomedical data analysis.\nWhat Students Will Learn:\n- Basics of Computational Drug Design (CADD) and molecular docking\n- Protein structure analysis and visualization\n- Practical Python programming using BioPython for biological data\n- Workflow integration of CADD and BioPython for biomedical research projects\n- Data analysis, interpretation, and reporting in a research context\nWho Should Attend:\n- Students in bioinformatics, biotechnology, and life sciences\n- Beginners in computational drug design and Python programming\n- Anyone interested in applying computational approaches to biomedical research\nCourse Outcomes:\nBy the end of this course, students will be able to:\n- Apply CADD techniques to study protein-ligand interactions\n- Use BioPython to manipulate and analyze biological datasets\n- Integrate computational tools to support biomedical research projects\n- Develop skills for research-focused problem solving in bioinformatics and drug discovery"
+  },
+  {
+    "objectID": "RA/index.html",
+    "href": "RA/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 25, 2022\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nOct 22, 2022\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Projects/project_2/index.html",
+    "href": "Projects/project_2/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860\n\n\n\n\n\n\n\nTabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Projects/project_2/index.html#peer-reviewed",
+    "href": "Projects/project_2/index.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860"
+  },
+  {
+    "objectID": "Projects/project_2/index.html#conference",
+    "href": "Projects/project_2/index.html#conference",
+    "title": "Publications",
+    "section": "",
+    "text": "Tabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Projects/Projects/index.html",
+    "href": "Projects/Projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In this project I use EHR to explore the hospital transfers."
+  },
+  {
+    "objectID": "Projects/Publications/index.html",
+    "href": "Projects/Publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860\n\n\n\n\n\n\n\nTabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Projects/Publications/index.html#peer-reviewed",
+    "href": "Projects/Publications/index.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860"
+  },
+  {
+    "objectID": "Projects/Publications/index.html#conference",
+    "href": "Projects/Publications/index.html#conference",
+    "title": "Publications",
+    "section": "",
+    "text": "Tabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Projects & Publications/Publications/index.html",
+    "href": "Projects & Publications/Publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860\n\n\n\n\n\n\n\nTabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Projects & Publications/Publications/index.html#peer-reviewed",
+    "href": "Projects & Publications/Publications/index.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860"
+  },
+  {
+    "objectID": "Projects & Publications/Publications/index.html#conference",
+    "href": "Projects & Publications/Publications/index.html#conference",
+    "title": "Publications",
+    "section": "",
+    "text": "Tabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Projects & Publications/index.html",
+    "href": "Projects & Publications/index.html",
+    "title": "Projects & Publications",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects & Publications/Projects/index.html",
+    "href": "Projects & Publications/Projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In this project I use EHR to explore the hospital transfers."
+  },
+  {
+    "objectID": "Sessions_Talks/talk_1/index.html",
+    "href": "Sessions_Talks/talk_1/index.html",
+    "title": "AlphaFold – The Future of Structural Biology",
+    "section": "",
+    "text": "Overview:\nAlphaFold is a breakthrough AI tool developed by DeepMind that predicts the 3D structures of proteins from their amino acid sequences. This technology has transformed structural biology, helping researchers understand protein folding, function, and interactions—key for drug design, protein engineering, and functional annotation.\nThis webinar introduced the basics of AlphaFold and showed its potential applications in research. Participants can explore AlphaFold further using the resources below.\n\n\n\n\nAlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Sessions_Talks/talk_1/index.html#explore-alphafold-yourself",
+    "href": "Sessions_Talks/talk_1/index.html#explore-alphafold-yourself",
+    "title": "AlphaFold – The Future of Structural Biology",
+    "section": "",
+    "text": "AlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Projects_Publications/Publications/index.html",
+    "href": "Projects_Publications/Publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860\nSiddiquee NH, Sujan MSI, Dremit TI, Rahat EH, Barman K, Karim M, Nandi C, Akter S, Talukder MEK, Hosen MS, Khaled M, Saha O, et al. Natural Products in Precision Neurological Disease (Cryptococcal Meningitis): Structure-Based Phytochemical Screening of Glycyrrhiza glabra Plant Against Cryptococcus neoformans Farnesyltransferase (FTase). Chemistry & Biodiversity. 2024; doi: https://doi.org/10.1002/cbdv.202401987\n\n\n\n\n\n\n\nTabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Projects_Publications/Publications/index.html#peer-reviewed",
+    "href": "Projects_Publications/Publications/index.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860\nSiddiquee NH, Sujan MSI, Dremit TI, Rahat EH, Barman K, Karim M, Nandi C, Akter S, Talukder MEK, Hosen MS, Khaled M, Saha O, et al. Natural Products in Precision Neurological Disease (Cryptococcal Meningitis): Structure-Based Phytochemical Screening of Glycyrrhiza glabra Plant Against Cryptococcus neoformans Farnesyltransferase (FTase). Chemistry & Biodiversity. 2024; doi: https://doi.org/10.1002/cbdv.202401987"
+  },
+  {
+    "objectID": "Projects_Publications/Publications/index.html#conference",
+    "href": "Projects_Publications/Publications/index.html#conference",
+    "title": "Publications",
+    "section": "",
+    "text": "Tabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Projects_Publications/index.html",
+    "href": "Projects_Publications/index.html",
+    "title": "Projects & Publications",
+    "section": "",
+    "text": "Our published studies include research on phytochemical screening against breast cancer-associated pathways, as well as computational identification of microbial biomolecule-derived inhibitors for neurological disorder-related targets. These works integrate methods such as molecular docking, ADMET prediction, molecular dynamics simulation, MM-GBSA/MM-PBSA analysis, and other in-silico techniques to support early-stage drug discovery. Through these publications, we aim to contribute to precision medicine, natural product-based therapeutic development, and translational biomedical research. This section reflects our commitment to producing scientifically meaningful, research-oriented outputs that connect computational investigation with real-world biological and medical challenges.\n\n\n\n\n\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects_Publications/Projects/index.html",
+    "href": "Projects_Publications/Projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Our current and completed works involve topics such as:\n\nCancer-related computational research\nNeurological disease and neurodisorder-focused drug discovery\nACE2 receptor inhibitor screening\nDengue virus inhibitor studies targeting NS2B and NS3 proteins\nComputational exploration of drug candidates for communicable diseases\nStructure-based phytochemical and small molecule screening\nBioinformatics and CADD-driven biomedical research"
+  },
+  {
+    "objectID": "Sessions_Talks/index.html",
+    "href": "Sessions_Talks/index.html",
+    "title": "Sessions & Talks",
+    "section": "",
+    "text": "Virtual Workshop on AlphaFold\n\n\n\n\n\nDec 6, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Sessions_Talks/index.html#bioinformatics-talks",
+    "href": "Sessions_Talks/index.html#bioinformatics-talks",
+    "title": "Sessions & Talks",
+    "section": "",
+    "text": "Virtual Workshop on AlphaFold\n\n\n\n\n\nDec 6, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Sessions_Talks/index.html#scientific-sessions",
+    "href": "Sessions_Talks/index.html#scientific-sessions",
+    "title": "Sessions & Talks",
+    "section": "Scientific Sessions",
+    "text": "Scientific Sessions\n\n\n\n\n\n\n\n\n\n\nScientific Design & PowerPoint: Where Research Meets Visual Communication\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Sessions_Talks/index.html#ehr-data-sessions",
+    "href": "Sessions_Talks/index.html#ehr-data-sessions",
+    "title": "Sessions & Talks",
+    "section": "EHR / Data Sessions",
+    "text": "EHR / Data Sessions",
+    "crumbs": [
+      "Sessions & Talks"
+    ]
+  },
+  {
+    "objectID": "Projects_Publications/index.html#projects",
+    "href": "Projects_Publications/index.html#projects",
+    "title": "Projects & Publications",
+    "section": "",
+    "text": "Our current and completed works involve topics such as:\n\nCancer-related computational research\nNeurological disease and neurodisorder-focused drug discovery\nACE2 receptor inhibitor screening\nDengue virus inhibitor studies targeting NS2B and NS3 proteins\nComputational exploration of drug candidates for communicable diseases\nStructure-based phytochemical and small molecule screening\nBioinformatics and CADD-driven biomedical research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects & Publications"
+    ]
+  },
+  {
+    "objectID": "Projects_Publications/Projects/index.html#projects",
+    "href": "Projects_Publications/Projects/index.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Our current and completed works involve topics such as:\n\nCancer-related computational research\nNeurological disease and neurodisorder-focused drug discovery\nACE2 receptor inhibitor screening\nDengue virus inhibitor studies targeting NS2B and NS3 proteins\nComputational exploration of drug candidates for communicable diseases\nStructure-based phytochemical and small molecule screening\nBioinformatics and CADD-driven biomedical research"
+  },
+  {
+    "objectID": "Team/CA/index.html",
+    "href": "Team/CA/index.html",
+    "title": "Campus Ambassador",
+    "section": "",
+    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+  },
+  {
+    "objectID": "Team/FM/index.html",
+    "href": "Team/FM/index.html",
+    "title": "Founding Member",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Name\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nDetails\n\n\n\nAssigned Project\n\n\n\nPhoto\n\n\n\n\n\n\n\n\nAmin Md\n\n\nFounder & Bioinformatics Trainer. Focus on structural biology and CADD. \n\n\nAlphaFold workflow development\n\n\n\n\n\n\n\n\n\nAmin Md\n\n\nFounder & Bioinformatics Trainer. Focus on structural biology and CADD. \n\n\nAlphaFold workflow development\n\n\n\n\n\n\n\n\n\nAmin Md\n\n\nFounder & Bioinformatics Trainer. Focus on structural biology and CADD. \n\n\nAlphaFold workflow development\n\n\n\n\n\n\n\n\n\nAmin Md\n\n\nFounder & Bioinformatics Trainer. Focus on structural biology and CADD. \n\n\nAlphaFold workflow development\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Team/RA/index.html",
+    "href": "Team/RA/index.html",
+    "title": "Research Assistants",
+    "section": "",
+    "text": "data: _data/research_assistants.yml fields: [name, linkedin, email, image] image-height: 150px max-description-length: 500 grid-item-border: true"
+  },
+  {
+    "objectID": "Team/RA/index.html#bioinformatics-talks",
+    "href": "Team/RA/index.html#bioinformatics-talks",
+    "title": "Sessions & Talks",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "Team/RA/index.html#scientific-sessions",
+    "href": "Team/RA/index.html#scientific-sessions",
+    "title": "Sessions & Talks",
+    "section": "Scientific Sessions",
+    "text": "Scientific Sessions\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Team/RA/index.html#research-assistants",
+    "href": "Team/RA/index.html#research-assistants",
+    "title": "Research Assistants",
+    "section": "",
+    "text": "data: _data/research_assistants.yml fields: [name, linkedin, email, image] image-height: 150px max-description-length: 500 grid-item-border: true"
+  },
+  {
+    "objectID": "Team/FM/index.html#research-assistants",
+    "href": "Team/FM/index.html#research-assistants",
+    "title": "Founding Member",
+    "section": "",
+    "text": "name\n\n\nAmin Md\n\n\n\n\n\nlinkedin\n\n\nhttps://www.linkedin.com/in/aminmd\n\n\n\n\n\nemail\n\n\namin@example.com\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Team/FM/index.html#founding_member",
+    "href": "Team/FM/index.html#founding_member",
+    "title": "Founding Member",
+    "section": "",
+    "text": "name\n\n\n \n\n\n\n\n\nlinkedin\n\n\n \n\n\n\n\n\nemail\n\n\n \n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "CA/index.html",
+    "href": "CA/index.html",
+    "title": "Campus Ambassador",
+    "section": "",
+    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+  },
+  {
+    "objectID": "FM/index.html",
+    "href": "FM/index.html",
+    "title": "Founding Member",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Name\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nDetails\n\n\n\nAssigned Project\n\n\n\nPhoto\n\n\n\n\n\n\n\n\nAmin Md\n\n\nFounder & Bioinformatics Trainer. Focus on structural biology and CADD. \n\n\nAlphaFold workflow development\n\n\n\n\n\n\n\n\n\nAmin Md\n\n\nFounder & Bioinformatics Trainer. Focus on structural biology and CADD. \n\n\nAlphaFold workflow development\n\n\n\n\n\n\n\n\n\nAmin Md\n\n\nFounder & Bioinformatics Trainer. Focus on structural biology and CADD. \n\n\nAlphaFold workflow development\n\n\n\n\n\n\n\n\n\nAmin Md\n\n\nFounder & Bioinformatics Trainer. Focus on structural biology and CADD. \n\n\nAlphaFold workflow development\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html",
+    "href": "Campus_Ambassador/index.html",
+    "title": "Campus Ambassador",
+    "section": "",
+    "text": "Research Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Founding_Member/index.html",
+    "href": "Founding_Member/index.html",
+    "title": "Founding Members",
+    "section": "",
+    "text": "Founder of Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Founding_Member/index.html#bioinformatics-talks",
+    "href": "Founding_Member/index.html#bioinformatics-talks",
+    "title": "Founding Members",
+    "section": "",
+    "text": "Virtual Workshop on AlphaFold\n\n\n\n\n\nDec 6, 2025\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Founding Members"
+    ]
+  },
+  {
+    "objectID": "Founding_Member/index.html#scientific-sessions",
+    "href": "Founding_Member/index.html#scientific-sessions",
+    "title": "Founding Members",
+    "section": "Scientific Sessions",
+    "text": "Scientific Sessions\n\n\n\n\n\n\n\n\n\n\nScientific Design & PowerPoint: Where Research Meets Visual Communication\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Founding Members"
+    ]
+  },
+  {
+    "objectID": "Founding_Member/index.html#md-al-amin",
+    "href": "Founding_Member/index.html#md-al-amin",
+    "title": "Founding Members",
+    "section": "",
+    "text": "Founder of Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Founding_Member/index.html#rahnuma-tabassum",
+    "href": "Founding_Member/index.html#rahnuma-tabassum",
+    "title": "Founding Members",
+    "section": "Rahnuma Tabassum",
+    "text": "Rahnuma Tabassum\n\n\n\n\n\n\n\n\n\n\nRahnuma Tabassum\n\n\nFounder of Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Founding_Member/index.html#mir-ehsanul-haque",
+    "href": "Founding_Member/index.html#mir-ehsanul-haque",
+    "title": "Founding Members",
+    "section": "Mir Ehsanul Haque",
+    "text": "Mir Ehsanul Haque\n\n\n\n\n\n\n\n\n\n\nMir Mohammod Ehsanul Haque\n\n\nFounder of Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Founding_Member/index.html#chinmoy-nandi",
+    "href": "Founding_Member/index.html#chinmoy-nandi",
+    "title": "Founding Members",
+    "section": "Chinmoy Nandi",
+    "text": "Chinmoy Nandi\n\n\n\n\n\n\n\n\n\n\nChinmoy Nandi\n\n\nFounder of Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Founding_Member/maa/index.html",
+    "href": "Founding_Member/maa/index.html",
+    "title": "Md Al Amin",
+    "section": "",
+    "text": "Md Al Amin is an undergraduate student of Biochemistry and Molecular Biology at Jagannath University, Bangladesh, with strong training in both experimental and computational biomedical research. He currently works as a Research Assistant at the Red-Green Research Centre, focusing on peptide-based drug design using computational biology approaches, while also contributing to departmental laboratory projects.\nIn his departmental research, he investigates Bangladeshi plant-derived phytochemicals as eco-friendly larvicidal alternatives to conventional insecticides. This work aligns with the One Health and microbiome framework, promoting safer and sustainable public health interventions, with applications including mosquito repellents and nanoparticle formulations.\nBeyond research, he has held leadership positions such as President of ISCB RSG Bangladesh and actively contributes to academic outreach and teaching programs.\nHe aims to integrate computational and experimental approaches in drug discovery and molecular biology, building a research career that bridges biology and computational science to advance translational biomedical innovation.\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Founding_Member/maa/index.html#explore-alphafold-yourself",
+    "href": "Founding_Member/maa/index.html#explore-alphafold-yourself",
+    "title": "Md Al Amin",
+    "section": "",
+    "text": "AlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Founding_Member/rtn/index.html",
+    "href": "Founding_Member/rtn/index.html",
+    "title": "Rahnuma Tabassum",
+    "section": "",
+    "text": "Overview:\nAlphaFold is a breakthrough AI tool developed by DeepMind that predicts the 3D structures of proteins from their amino acid sequences. This technology has transformed structural biology, helping researchers understand protein folding, function, and interactions—key for drug design, protein engineering, and functional annotation.\nThis webinar introduced the basics of AlphaFold and showed its potential applications in research. Participants can explore AlphaFold further using the resources below.\n\n\n\n\nAlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Founding_Member/rtn/index.html#explore-alphafold-yourself",
+    "href": "Founding_Member/rtn/index.html#explore-alphafold-yourself",
+    "title": "Rahnuma Tabassum",
+    "section": "",
+    "text": "AlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Founding_Member/cna/index.html",
+    "href": "Founding_Member/cna/index.html",
+    "title": "Chinmoy Nandi",
+    "section": "",
+    "text": "Overview:\nAlphaFold is a breakthrough AI tool developed by DeepMind that predicts the 3D structures of proteins from their amino acid sequences. This technology has transformed structural biology, helping researchers understand protein folding, function, and interactions—key for drug design, protein engineering, and functional annotation.\nThis webinar introduced the basics of AlphaFold and showed its potential applications in research. Participants can explore AlphaFold further using the resources below.\n\n\n\n\nAlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Founding_Member/cna/index.html#explore-alphafold-yourself",
+    "href": "Founding_Member/cna/index.html#explore-alphafold-yourself",
+    "title": "Chinmoy Nandi",
+    "section": "",
+    "text": "AlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Founding_Member/meh/index.html",
+    "href": "Founding_Member/meh/index.html",
+    "title": "Mir Mohammod Ehsanul Haque",
+    "section": "",
+    "text": "Overview:\nAlphaFold is a breakthrough AI tool developed by DeepMind that predicts the 3D structures of proteins from their amino acid sequences. This technology has transformed structural biology, helping researchers understand protein folding, function, and interactions—key for drug design, protein engineering, and functional annotation.\nThis webinar introduced the basics of AlphaFold and showed its potential applications in research. Participants can explore AlphaFold further using the resources below.\n\n\n\n\nAlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Founding_Member/meh/index.html#explore-alphafold-yourself",
+    "href": "Founding_Member/meh/index.html#explore-alphafold-yourself",
+    "title": "Mir Mohammod Ehsanul Haque",
+    "section": "",
+    "text": "AlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Research_Assistant/index.html",
+    "href": "Research_Assistant/index.html",
+    "title": "Research Assistant",
+    "section": "",
+    "text": "Research Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research_Assistant/index.html#team-member-1",
+    "href": "Research_Assistant/index.html#team-member-1",
+    "title": "Founding Members",
+    "section": "",
+    "text": "No matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Research_Assistant/index.html#team-member-2",
+    "href": "Research_Assistant/index.html#team-member-2",
+    "title": "Founding Members",
+    "section": "Team Member 2",
+    "text": "Team Member 2\n\n\n\n\n\n\n\n\n\n\nAsadullah Wakif\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Research_Assistant/index.html#team-member-3",
+    "href": "Research_Assistant/index.html#team-member-3",
+    "title": "Founding Members",
+    "section": "Team Member 3",
+    "text": "Team Member 3\n\n\n\n\n\n\n\n\n\n\nShaila Parvin Moreom\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Research_Assistant/index.html#team-member-4",
+    "href": "Research_Assistant/index.html#team-member-4",
+    "title": "Founding Members",
+    "section": "Team Member 4",
+    "text": "Team Member 4\n\n\n\n\n\n\n\n\n\n\nNure Hasana\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Research_Assistant/index.html#team-member-5",
+    "href": "Research_Assistant/index.html#team-member-5",
+    "title": "Founding Members",
+    "section": "Team Member 5",
+    "text": "Team Member 5\n\n\n\n\n\n\n\n\n\n\nSharmin Akter\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Research_Assistant/index.html#team-member-6",
+    "href": "Research_Assistant/index.html#team-member-6",
+    "title": "Founding Members",
+    "section": "Team Member 6",
+    "text": "Team Member 6\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Research_Assistant/index.html#team-member-7",
+    "href": "Research_Assistant/index.html#team-member-7",
+    "title": "Founding Members",
+    "section": "Team Member 7",
+    "text": "Team Member 7\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Research_Assistant/index.html#team-member-8",
+    "href": "Research_Assistant/index.html#team-member-8",
+    "title": "Founding Members",
+    "section": "Team Member 8",
+    "text": "Team Member 8\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Research_Assistant/index.html#team-member-9",
+    "href": "Research_Assistant/index.html#team-member-9",
+    "title": "Founding Members",
+    "section": "Team Member 9",
+    "text": "Team Member 9\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Research_Assistant/index.html#team-member-10",
+    "href": "Research_Assistant/index.html#team-member-10",
+    "title": "Founding Members",
+    "section": "Team Member 10",
+    "text": "Team Member 10\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Assistant"
+    ]
+  },
+  {
+    "objectID": "Research_Assistant/tm1/index.html",
+    "href": "Research_Assistant/tm1/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Research_Assistant/tm1/index.html#explore-alphafold-yourself",
+    "href": "Research_Assistant/tm1/index.html#explore-alphafold-yourself",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "AlphaFold Protein Structure Database (EMBL-EBI):\nhttps://www.alphafold.ebi.ac.uk – Search and download predicted protein structures.\nColabFold (Google Colab notebook for predictions):\nhttps://colab.research.google.com/github/sokrypton/ColabFold – Try predictions interactively.\nYouTube Overview Video: AlphaFold: The making of a scientific breakthrough\n\n\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology."
+  },
+  {
+    "objectID": "Research_Assistant/index.html#nilanjona-halder",
+    "href": "Research_Assistant/index.html#nilanjona-halder",
+    "title": "Research Assistant",
+    "section": "",
+    "text": "Research Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research_Assistant/tm1/index.html#projects-resources",
+    "href": "Research_Assistant/tm1/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Research_Assistant/tm3/index.html",
+    "href": "Research_Assistant/tm3/index.html",
+    "title": "Shaila Parvin Moreom",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Research_Assistant/tm3/index.html#projects-resources",
+    "href": "Research_Assistant/tm3/index.html#projects-resources",
+    "title": "Shaila Parvin Moreom",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Research_Assistant/tm8/index.html",
+    "href": "Research_Assistant/tm8/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Research_Assistant/tm8/index.html#projects-resources",
+    "href": "Research_Assistant/tm8/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Research_Assistant/tm6/index.html",
+    "href": "Research_Assistant/tm6/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Research_Assistant/tm6/index.html#projects-resources",
+    "href": "Research_Assistant/tm6/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Research_Assistant/tm4/index.html",
+    "href": "Research_Assistant/tm4/index.html",
+    "title": "Nure Hasana",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Research_Assistant/tm4/index.html#projects-resources",
+    "href": "Research_Assistant/tm4/index.html#projects-resources",
+    "title": "Nure Hasana",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Research_Assistant/tm10/index.html",
+    "href": "Research_Assistant/tm10/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Research_Assistant/tm10/index.html#projects-resources",
+    "href": "Research_Assistant/tm10/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Research_Assistant/tm2/index.html",
+    "href": "Research_Assistant/tm2/index.html",
+    "title": "Asadullah Wakif",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Research_Assistant/tm2/index.html#projects-resources",
+    "href": "Research_Assistant/tm2/index.html#projects-resources",
+    "title": "Asadullah Wakif",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Research_Assistant/tm5/index.html",
+    "href": "Research_Assistant/tm5/index.html",
+    "title": "Sharmin Akter",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Research_Assistant/tm5/index.html#projects-resources",
+    "href": "Research_Assistant/tm5/index.html#projects-resources",
+    "title": "Sharmin Akter",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Research_Assistant/tm7/index.html",
+    "href": "Research_Assistant/tm7/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Research_Assistant/tm7/index.html#projects-resources",
+    "href": "Research_Assistant/tm7/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Research_Assistant/tm9/index.html",
+    "href": "Research_Assistant/tm9/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Research_Assistant/tm9/index.html#projects-resources",
+    "href": "Research_Assistant/tm9/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Research_Assistant/index.html#asadullah-wakif",
+    "href": "Research_Assistant/index.html#asadullah-wakif",
+    "title": "Research Assistant",
+    "section": "Asadullah Wakif",
+    "text": "Asadullah Wakif\n\n\n\n\n\n\n\n\n\n\nAsadullah Wakif\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research_Assistant/index.html#shaila-parvin-moreom",
+    "href": "Research_Assistant/index.html#shaila-parvin-moreom",
+    "title": "Research Assistant",
+    "section": "Shaila Parvin Moreom",
+    "text": "Shaila Parvin Moreom\n\n\n\n\n\n\n\n\n\n\nShaila Parvin Moreom\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research_Assistant/index.html#nure-hasana",
+    "href": "Research_Assistant/index.html#nure-hasana",
+    "title": "Research Assistant",
+    "section": "Nure Hasana",
+    "text": "Nure Hasana\n\n\n\n\n\n\n\n\n\n\nNure Hasana\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research_Assistant/index.html#sharmin-akter",
+    "href": "Research_Assistant/index.html#sharmin-akter",
+    "title": "Research Assistant",
+    "section": "Sharmin Akter",
+    "text": "Sharmin Akter\n\n\n\n\n\n\n\n\n\n\nSharmin Akter\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research_Assistant/index.html#aniruddha-sarker-amlan",
+    "href": "Research_Assistant/index.html#aniruddha-sarker-amlan",
+    "title": "Research Assistant",
+    "section": "Aniruddha Sarker Amlan",
+    "text": "Aniruddha Sarker Amlan\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research_Assistant/index.html#anupama-sharma",
+    "href": "Research_Assistant/index.html#anupama-sharma",
+    "title": "Research Assistant",
+    "section": "Anupama Sharma",
+    "text": "Anupama Sharma\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research_Assistant/index.html#aniruddha-sarker-amlan-1",
+    "href": "Research_Assistant/index.html#aniruddha-sarker-amlan-1",
+    "title": "Research Assistant",
+    "section": "Aniruddha Sarker Amlan",
+    "text": "Aniruddha Sarker Amlan\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research_Assistant/index.html#tasmia-akter-sakira",
+    "href": "Research_Assistant/index.html#tasmia-akter-sakira",
+    "title": "Research Assistant",
+    "section": "Tasmia Akter Sakira",
+    "text": "Tasmia Akter Sakira\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research_Assistant/index.html#rubuya-amin-tasnim",
+    "href": "Research_Assistant/index.html#rubuya-amin-tasnim",
+    "title": "Research Assistant",
+    "section": "Rubuya Amin Tasnim",
+    "text": "Rubuya Amin Tasnim\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html#nilanjona-halder",
+    "href": "Campus_Ambassador/index.html#nilanjona-halder",
+    "title": "Campus Ambassador",
+    "section": "",
+    "text": "Research Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html#asadullah-wakif",
+    "href": "Campus_Ambassador/index.html#asadullah-wakif",
+    "title": "Campus Ambassador",
+    "section": "Asadullah Wakif",
+    "text": "Asadullah Wakif\n\n\n\n\n\n\n\n\n\n\nAsadullah Wakif\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html#shaila-parvin-moreom",
+    "href": "Campus_Ambassador/index.html#shaila-parvin-moreom",
+    "title": "Campus Ambassador",
+    "section": "Shaila Parvin Moreom",
+    "text": "Shaila Parvin Moreom\n\n\n\n\n\n\n\n\n\n\nShaila Parvin Moreom\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html#nure-hasana",
+    "href": "Campus_Ambassador/index.html#nure-hasana",
+    "title": "Campus Ambassador",
+    "section": "Nure Hasana",
+    "text": "Nure Hasana\n\n\n\n\n\n\n\n\n\n\nNure Hasana\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html#sharmin-akter",
+    "href": "Campus_Ambassador/index.html#sharmin-akter",
+    "title": "Campus Ambassador",
+    "section": "Sharmin Akter",
+    "text": "Sharmin Akter\n\n\n\n\n\n\n\n\n\n\nSharmin Akter\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html#aniruddha-sarker-amlan",
+    "href": "Campus_Ambassador/index.html#aniruddha-sarker-amlan",
+    "title": "Campus Ambassador",
+    "section": "Aniruddha Sarker Amlan",
+    "text": "Aniruddha Sarker Amlan\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html#anupama-sharma",
+    "href": "Campus_Ambassador/index.html#anupama-sharma",
+    "title": "Campus Ambassador",
+    "section": "Anupama Sharma",
+    "text": "Anupama Sharma\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html#aniruddha-sarker-amlan-1",
+    "href": "Campus_Ambassador/index.html#aniruddha-sarker-amlan-1",
+    "title": "Campus Ambassador",
+    "section": "Aniruddha Sarker Amlan",
+    "text": "Aniruddha Sarker Amlan\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html#tasmia-akter-sakira",
+    "href": "Campus_Ambassador/index.html#tasmia-akter-sakira",
+    "title": "Campus Ambassador",
+    "section": "Tasmia Akter Sakira",
+    "text": "Tasmia Akter Sakira\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/index.html#rubuya-amin-tasnim",
+    "href": "Campus_Ambassador/index.html#rubuya-amin-tasnim",
+    "title": "Campus Ambassador",
+    "section": "Rubuya Amin Tasnim",
+    "text": "Rubuya Amin Tasnim\n\n\n\n\n\n\n\n\n\n\nNilanjana Halder\n\n\nResearch Assistant, Get Learn Bioinformatics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm9/index.html",
+    "href": "Campus_Ambassador/tm9/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm9/index.html#projects-resources",
+    "href": "Campus_Ambassador/tm9/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Campus_Ambassador/tm7/index.html",
+    "href": "Campus_Ambassador/tm7/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm7/index.html#projects-resources",
+    "href": "Campus_Ambassador/tm7/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Campus_Ambassador/tm5/index.html",
+    "href": "Campus_Ambassador/tm5/index.html",
+    "title": "Sharmin Akter",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm5/index.html#projects-resources",
+    "href": "Campus_Ambassador/tm5/index.html#projects-resources",
+    "title": "Sharmin Akter",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Campus_Ambassador/tm3/index.html",
+    "href": "Campus_Ambassador/tm3/index.html",
+    "title": "Shaila Parvin Moreom",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm3/index.html#projects-resources",
+    "href": "Campus_Ambassador/tm3/index.html#projects-resources",
+    "title": "Shaila Parvin Moreom",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Campus_Ambassador/tm10/index.html",
+    "href": "Campus_Ambassador/tm10/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm10/index.html#projects-resources",
+    "href": "Campus_Ambassador/tm10/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Campus_Ambassador/tm1/index.html",
+    "href": "Campus_Ambassador/tm1/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm1/index.html#projects-resources",
+    "href": "Campus_Ambassador/tm1/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Campus_Ambassador/tm2/index.html",
+    "href": "Campus_Ambassador/tm2/index.html",
+    "title": "Asadullah Wakif",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm2/index.html#projects-resources",
+    "href": "Campus_Ambassador/tm2/index.html#projects-resources",
+    "title": "Asadullah Wakif",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Campus_Ambassador/tm4/index.html",
+    "href": "Campus_Ambassador/tm4/index.html",
+    "title": "Nure Hasana",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm4/index.html#projects-resources",
+    "href": "Campus_Ambassador/tm4/index.html#projects-resources",
+    "title": "Nure Hasana",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Campus_Ambassador/tm6/index.html",
+    "href": "Campus_Ambassador/tm6/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm6/index.html#projects-resources",
+    "href": "Campus_Ambassador/tm6/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Campus_Ambassador/tm8/index.html",
+    "href": "Campus_Ambassador/tm8/index.html",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Overview:\nNilanjana Halder is a research assistant specializing in protein modeling and bioinformatics workflows. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.\n\n\n\n\nProtein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation.\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. :::"
+  },
+  {
+    "objectID": "Campus_Ambassador/tm8/index.html#projects-resources",
+    "href": "Campus_Ambassador/tm8/index.html#projects-resources",
+    "title": "Nilanjana Halder",
+    "section": "",
+    "text": "Protein Docking Tutorial:\nExample Docking Guide – Learn how to prepare and analyze protein-ligand interactions.\nBioinformatics Pipeline Example:\nGitHub Repository – Explore scripts and tools used for sequence analysis and structural predictions.\nInteractive Tools:\nColabFold – Predict protein structures using AlphaFold in Google Colab.\n\n\nKey Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation."
+  },
+  {
+    "objectID": "Home/Home.html",
+    "href": "Home/Home.html",
+    "title": "Get Learn Bioinformatics",
+    "section": "",
+    "text": "FB Group\n  \n  \n    \n     \n  \n  \n    \n     \n  \n\n  \n  \n\nAbout Get Learn Bioinformatics\nWho We Are: We are a research and education-focused platform dedicated to making bioinformatics and computational biology accessible for students, beginners, and aspiring researchers.\nWhat We Do: Provide hands-on training in bioinformatics tools and molecular visualization Guide learners through research methodology and scientific literature analysis Offer workshops, mentorship, and academic support for research projects\nOur Mission: To empower learners with practical skills and confidence to explore, analyze, and contribute to scientific research.\nOur Vision: To create a community where students and researchers can grow, innovate, and succeed in bioinformatics and computational biology.\nLearn. Explore. Research. Grow."
+  },
+  {
+    "objectID": "Projects_Publications/research_project.html",
+    "href": "Projects_Publications/research_project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Our current and completed works involve topics such as:\n\nCancer-related computational research\nNeurological disease and neurodisorder-focused drug discovery\nACE2 receptor inhibitor screening\nDengue virus inhibitor studies targeting NS2B and NS3 proteins\nComputational exploration of drug candidates for communicable diseases\nStructure-based phytochemical and small molecule screening\nBioinformatics and CADD-driven biomedical research"
+  },
+  {
+    "objectID": "Projects_Publications/research_project.html#projects",
+    "href": "Projects_Publications/research_project.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Our current and completed works involve topics such as:\n\nCancer-related computational research\nNeurological disease and neurodisorder-focused drug discovery\nACE2 receptor inhibitor screening\nDengue virus inhibitor studies targeting NS2B and NS3 proteins\nComputational exploration of drug candidates for communicable diseases\nStructure-based phytochemical and small molecule screening\nBioinformatics and CADD-driven biomedical research"
+  },
+  {
+    "objectID": "Projects_Publications/published_work.html",
+    "href": "Projects_Publications/published_work.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860\nSiddiquee NH, Sujan MSI, Dremit TI, Rahat EH, Barman K, Karim M, Nandi C, Akter S, Talukder MEK, Hosen MS, Khaled M, Saha O, et al. Natural Products in Precision Neurological Disease (Cryptococcal Meningitis): Structure-Based Phytochemical Screening of Glycyrrhiza glabra Plant Against Cryptococcus neoformans Farnesyltransferase (FTase). Chemistry & Biodiversity. 2024; doi: https://doi.org/10.1002/cbdv.202401987\n\n\n\n\n\n\n\nTabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Projects_Publications/published_work.html#peer-reviewed",
+    "href": "Projects_Publications/published_work.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860\nSiddiquee NH, Sujan MSI, Dremit TI, Rahat EH, Barman K, Karim M, Nandi C, Akter S, Talukder MEK, Hosen MS, Khaled M, Saha O, et al. Natural Products in Precision Neurological Disease (Cryptococcal Meningitis): Structure-Based Phytochemical Screening of Glycyrrhiza glabra Plant Against Cryptococcus neoformans Farnesyltransferase (FTase). Chemistry & Biodiversity. 2024; doi: https://doi.org/10.1002/cbdv.202401987"
+  },
+  {
+    "objectID": "Projects_Publications/published_work.html#conference",
+    "href": "Projects_Publications/published_work.html#conference",
+    "title": "Publications",
+    "section": "",
+    "text": "Tabassum, R., Nandi, C., Amin MA, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nAmin MA, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "Home/index.html",
+    "href": "Home/index.html",
+    "title": "Get Learn Bioinformatics",
+    "section": "",
+    "text": "FB Group\n  \n  \n    \n     \n  \n  \n    \n     \n  \n\n  \n  \n\nAbout Get Learn Bioinformatics\nWho We Are: We are a research and education-focused platform dedicated to making bioinformatics and computational biology accessible for students, beginners, and aspiring researchers.\nWhat We Do: Provide hands-on training in bioinformatics tools and molecular visualization Guide learners through research methodology and scientific literature analysis Offer workshops, mentorship, and academic support for research projects\nOur Mission: To empower learners with practical skills and confidence to explore, analyze, and contribute to scientific research.\nOur Vision: To create a community where students and researchers can grow, innovate, and succeed in bioinformatics and computational biology.\nLearn. Explore. Research. Grow."
+  },
+  {
+    "objectID": "Contact/Contact.html",
+    "href": "Contact/Contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "saarf43qtg53q53q"
+  },
+  {
+    "objectID": "Founding_Member/maa/index.html#he-aims-to-integrate-computational-and-experimental-approaches-in-drug-discovery-and-molecular-biology-building-a-research-career-that-bridges-biology-and-computational-science-to-advance-translational-biomedical-innovation.",
+    "href": "Founding_Member/maa/index.html#he-aims-to-integrate-computational-and-experimental-approaches-in-drug-discovery-and-molecular-biology-building-a-research-career-that-bridges-biology-and-computational-science-to-advance-translational-biomedical-innovation.",
+    "title": "Md Al Amin",
+    "section": "",
+    "text": "Key Contributions:\n- Supports computational biology research projects.\n- Creates tutorials and pipelines for protein modeling.\n- Assists in training other students and researchers.\n- Maintains reproducible code and workflow documentation\nKey Takeaways:\n- AlphaFold predicts protein structures with high accuracy.\n- Useful for research in drug discovery, molecular biology, and bioinformatics.\n- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.\n- Understanding AlphaFold helps participants see the future of computational biology. —"
+  }
+]

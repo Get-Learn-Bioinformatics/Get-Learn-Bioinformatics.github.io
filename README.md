@@ -1,2 +1,2 @@
-# Get-Learn-Bioinformatics.github.io
-Education Website
+# academic-website-template
+Template for Academic Website

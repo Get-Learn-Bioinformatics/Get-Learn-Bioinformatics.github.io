@@ -1,0 +1,10 @@
+---
+title: "Scientific Design & PowerPoint: Where Research Meets Visual Communication"
+description: ""
+date: "2026-03-07"
+time: "14:00-16:00"
+categories: [Scientific Session]
+priority: 3
+---
+
+![](image.jpg)

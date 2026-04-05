@@ -1,0 +1,44 @@
+---
+title: "Get Learn Bioinformatics"
+image: img/profile.png
+
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      href: mailto:info.getlearnbioinformatics@gmail.com
+
+    - icon: facebook
+      href: https://facebook.com/getlearnbioinformatics
+      target: _blank
+
+    - text: "FB Group"
+      href: https://facebook.com/groups/934011292608963/
+      target: _blank
+
+    - icon: youtube
+      href: https://youtube.com/@getlearn_bioinformatics
+      target: _blank
+
+    - icon: instagram
+      href: https://instagram.com/p/DVtQOwqiUXX/
+      target: _blank
+---
+
+::: {#hero-heading}
+## Welcome to Get Learn Bioinformatics
+<div style="text-align: justify;">
+[Get Learn Bioinformatics](https://www.facebook.com/getlearnbioinformatics) is an educational and research-focused platform dedicated to making bioinformatics, computational biology, and research learning more accessible, practical, and understandable for students, beginners, and aspiring researchers.
+
+Our goal is to bridge the gap between theoretical knowledge and hands-on skills by providing structured learning opportunities in areas such as basic bioinformatics, research methodology, scientific literature analysis, molecular visualization, protein studies, docking, and computational approaches in life sciences.
+
+At Get Learn Bioinformatics, we believe that learning should be clear, skill-based, and research-oriented. Through training sessions, workshops, mentorship, and academic support, we aim to help learners build confidence in using modern bioinformatics tools and develop the foundation needed for higher studies, research projects, and scientific careers.
+
+We are committed to creating a learning environment where students can explore, practice, and grow in the field of bioinformatics with proper guidance and real-world application.
+
+**Learn. Explore. Research. Grow.**
+
+</div>
+:::

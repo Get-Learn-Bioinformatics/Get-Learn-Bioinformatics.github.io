@@ -1,0 +1,70 @@
+---
+title: "Founding Members"
+description: |
+  Meet the founding members of Get Learn Bioinformatics — dedicated researchers, educators, and innovators driving our mission to make bioinformatics education accessible to all.
+listing:
+  - id: MAA
+    max-description-length: 500
+    image-height: 200px
+    fields: [title, description, image]
+    contents: 
+      - maa   
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    filter-ui: false
+
+  - id: RTN
+    max-description-length: 500
+    image-height: 200px
+    fields: [title, description, image]
+    contents: 
+      - rtn 
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    sort: "priority asc"
+    filter-ui: false
+  - id: MEH
+    max-description-length: 500
+    image-height: 200px
+    fields: [title, description, image]
+    contents: 
+      - meh
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    sort: "priority asc"
+    filter-ui: false
+  - id: CNA
+    max-description-length: 500
+    image-height: 200px
+    fields: [title, description, image]
+    contents: 
+      - cna
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    sort: "priority asc"
+    filter-ui: false
+---
+
+## Md Al Amin
+
+::: {#MAA}
+:::
+
+## Rahnuma Tabassum
+
+::: {#RTN}
+:::
+
+## Mir Ehsanul Haque
+
+::: {#MEH}
+:::
+
+## Chinmoy Nandi
+
+::: {#CNA}
+:::

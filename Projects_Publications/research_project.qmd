@@ -1,0 +1,16 @@
+---
+title: "Projects"
+categories: [Bioinformatics]
+image: "image.jpg"
+---
+
+## Projects
+Our current and completed works involve topics such as:
+
+- **Cancer-related computational research**
+- **Neurological disease and neurodisorder-focused drug discovery**
+- **ACE2 receptor inhibitor screening**
+- **Dengue virus inhibitor studies targeting NS2B and NS3 proteins**
+- **Computational exploration of drug candidates for communicable diseases**
+- **Structure-based phytochemical and small molecule screening**
+- **Bioinformatics and CADD-driven biomedical research**
