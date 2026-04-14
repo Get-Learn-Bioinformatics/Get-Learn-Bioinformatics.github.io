@@ -8,14 +8,15 @@ listing:
     image-height: 150px
     fields: [image, title]
     contents: 
-      - course_1
-      - course_2
+      - Course_1
+      - Course_2
     type: grid
     grid-item-border: false
     categories: false
     sort-ui: false
     filter-ui: false
 ---
+
 Browse hands-on training, workshops, and research-focused modules in bioinformatics, computational biology, and biomedical research.
 
 ::: {#Courses}

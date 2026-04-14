@@ -5,7 +5,7 @@ image: "image.jpg"
 ---
 <div style="text-align: justify;">
 
-In this course, foundational research skills and practical bioinformatics techniques, including scientific literature analysis, sequence exploration, and molecular visualization, will be learned by students.
+In this course, foundation research skills and practical bioinformatics techniques, including scientific literature analysis, sequence exploration, and molecular visualization, will be learned by students.
 
 **Course Overview:**
 
