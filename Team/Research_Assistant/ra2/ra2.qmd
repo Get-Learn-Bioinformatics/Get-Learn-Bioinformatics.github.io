@@ -1,5 +1,5 @@
 ---
-title: "Nure Hasana"
+title: "Asadullah Wakif"
 description: |
   Research Assistant, Get Learn Bioinformatics
   
@@ -13,7 +13,7 @@ about:
 ---
 ::: {#hero-heading}
 
-Nure Hasana is actively involved in learning and applying protein modeling, molecular docking, structure analysis, and bioinformatics workflows. Her work supports GLB’s computational biology learning and research activities.
+Asadullah Wakif is actively involved in learning and applying protein modeling, molecular docking, structure analysis, and bioinformatics workflows. Her work supports GLB’s computational biology learning and research activities.
 
 ---
 **Key Contributions:**  

@@ -1,7 +1,9 @@
 ---
 title: "Research Assistant"
-description: |
-  This page lists all workshops, talks, and sessions with details and thumbnails.
+description: |  
+  Research Assistants, Get Learn Bioinformatics    Explore the profiles of our Research Assistants, including their academic background, roles, and contributions.    
+  
+  Click on any Research Assistant to view more detailed information.
 
 listing:
   - id: ra1
@@ -116,51 +118,3 @@ listing:
     filter-ui: false
 ---
 
-## Nilanjana Halder
-::: {#ra1}
-:::
-
-## Asadullah Wakif
-
-::: {#ra2}
-:::
-
-## Shaila Parvin Moreom
-
-::: {#ra3}
-:::
-
-## Nure Hasana
-
-::: {#ra4}
-:::
-
-## Sharmin Akter
-
-::: {#ra5}
-:::
-
-## Aniruddha Sarker Amlan
-
-::: {#ra6}
-:::
-
-## Anupama Sharma
-
-::: {#ra7}
-:::
-
-## Tasmia Akter Sakira
-
-::: {#ra8}
-:::
-
-## Rubuya Amin Tasnim
-
-::: {#ra9}
-:::
-
-## Rubuya Amin Tasnim
-
-::: {#ra10}
-:::

@@ -1,7 +1,11 @@
 ---
-title: "Nilanjana Halder"
-description: "Research Assistant, Get Learn Bioinformatics"
-image: "image.jpg"
+title: "MD Miran Islam "
+description: |
+  Research Assistant, Get Learn Bioinformatics
+  
+  3rd Year Student of Biochemistry and Molecular Biology at Jagannath University.
+
+image: "image.jpg" 
 about:
   id: hero-heading
   template: trestles
@@ -9,35 +13,12 @@ about:
 ---
 ::: {#hero-heading}
 
-**Overview:**  
-Nilanjana Halder is a research assistant specializing in **protein modeling and bioinformatics workflows**. She contributes to projects involving molecular docking, structure analysis, and data visualization. Her work supports the lab in advancing computational biology studies and training new students.  
+MD Miran Islam  is actively involved in learning and applying protein modeling, molecular docking, structure analysis, and bioinformatics workflows. Her work supports GLB’s computational biology learning and research activities.
 
 ---
-
-## **Projects & Resources**
-
-- **Protein Docking Tutorial:**  
-[Example Docking Guide](https://www.rcsb.org/) – Learn how to prepare and analyze protein-ligand interactions.  
-
-- **Bioinformatics Pipeline Example:**  
-[GitHub Repository](https://github.com/) – Explore scripts and tools used for sequence analysis and structural predictions.  
-
-- **Interactive Tools:**  
-[ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold) – Predict protein structures using AlphaFold in Google Colab.
-
----
-
 **Key Contributions:**  
-- Supports computational biology research projects.  
-- Creates tutorials and pipelines for protein modeling.  
-- Assists in training other students and researchers.  
-- Maintains reproducible code and workflow documentation.
+- Supports computational biology and bioinformatics-based research activities
+- Practices protein structure analysis and molecular docking workflows
+- Contributes to research learning and student skill development
+- Assists in maintaining structured and reproducible computational workflows
 :::
-
-**Key Takeaways:**  
-- AlphaFold predicts protein structures with high accuracy.  
-- Useful for research in drug discovery, molecular biology, and bioinformatics.  
-- Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.  
-- Understanding AlphaFold helps participants see the future of computational biology.
-:::
-
