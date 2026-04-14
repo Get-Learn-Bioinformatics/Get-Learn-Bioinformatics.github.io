@@ -59,7 +59,10 @@
   },
   {
     "listing": "/Courses/index.html",
-    "items": []
+    "items": [
+      "/Courses/course_1/index.html",
+      "/Courses/course_2/index.html"
+    ]
   },
   {
     "listing": "/RA/index.html",

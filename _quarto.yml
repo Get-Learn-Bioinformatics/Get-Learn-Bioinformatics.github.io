@@ -38,8 +38,6 @@ website:
           href: Team/Founding_Member/index.qmd
         - text: "Research Assistant"
           href: Team/Research_Assistant/index.qmd
-        #text: "Campus Ambassador"
-        #href: Team/Campus_Ambassador/index.qmd
       - text: "Contact"
         href: Contact/Contact.qmd
     right:
