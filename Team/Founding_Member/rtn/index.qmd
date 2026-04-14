@@ -2,36 +2,57 @@
 title: "Rahnuma Tabassum"
 description: "Founder of Get Learn Bioinformatics"
 image: "image.jpg"
+#subtitle: "<b>Researcher, Educator & Entrepreneur</b>"
+
 about:
+
   id: hero-heading
   template: trestles
-  image-shape: rounded
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      href: mailto:tabassumnehleen@gmail.com
+      target: _blank
+    - icon: twitter
+      href: https://x.com/alamin_1037
+      target: _blank
+    - icon: linkedin
+      href: https://www.linkedin.com/in/rahnuma-tabassum-a51791218/
+      target: _blank
+    - icon: github
+      href: https://github.com/BMBjnu27
+      target: _blank
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0009-0002-4894-1785
+      target: _blank
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=_4O3yosAAAAJ&hl=en
+      target: _blank
 ---
+
 ::: {#hero-heading}
+<div style="text-align: justify;">
+[Rahnuma Tabassum](https://www.facebook.com/tabassum.nehleen) is an undergraduate student of Biochemistry and Molecular Biology at [Jagannath University](https://jnu.ac.bd/department/portal/biochemistry), Bangladesh, with strong training in both experimental and computational biomedical research.She worked as an internee in the [GSA Bioinformatics Internship 2025](), organized by GNOBB, SPSB, and ASI School of Life in collaboration with Chiral Bangladesh and DeepBio Limited, demonstrating outstanding dedication and excellence.
 
-**Overview:**  
-[AlphaFold](https://alphafold.ebi.ac.uk/) is a breakthrough AI tool developed by DeepMind that predicts the 3D structures of proteins from their amino acid sequences. This technology has transformed structural biology, helping researchers understand protein folding, function, and interactions—key for drug design, protein engineering, and functional annotation.  
-This webinar introduced the basics of AlphaFold and showed its potential applications in research. Participants can explore AlphaFold further using the resources below.
+Rahnuma showcased her expertise in computational biology through her research titled “Integrated Transcriptomic Meta-Analysis Identifies Pathway Crosstalk and Therapeutic Targets in Liver Hepatocellular Carcinoma.” Her work reflects a strong commitment to advancing data-driven cancer research and inspiring the next generation of bioinformaticians.
 
----
+In her departmental research, she explores bioactive compounds from Bangladeshi medicinal plants as environmentally friendly larvicidal agents, offering alternatives to conventional insecticides. This research is aligned with the One Health and microbiome framework and supports the development of safer, sustainable public health solutions, including mosquito repellents and nanoparticle-based applications.
 
-## **Explore AlphaFold Yourself**
+In addition to her research activities, she has served in leadership roles, including President of ISCB RSG Bangladesh, and actively engages in academic outreach, mentoring, and educational initiatives.
 
-- **AlphaFold Protein Structure Database (EMBL-EBI):**  
-[https://www.alphafold.ebi.ac.uk](https://www.alphafold.ebi.ac.uk) – Search and download predicted protein structures.  
-
-- **ColabFold (Google Colab notebook for predictions):**  
-[https://colab.research.google.com/github/sokrypton/ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold) – Try predictions interactively.  
-
-- **YouTube Overview Video:**  [AlphaFold: The making of a scientific breakthrough]("https://www.youtube.com/watch?v=gg7WjuFs8F4&list=PLqYmG7hTraZAhkAh72kzzLC4r2O4VoVgz") 
-
+She is committed to integrating computational and experimental strategies in drug discovery and molecular biology, with the goal of building a career that bridges biological sciences and computational approaches to advance translational biomedical research.
 
 ---
 
+**Key Contributions:**  
+- Supports computational biology research projects.  
+- Creates tutorials and pipelines for protein modeling.  
+- Assists in training other students and researchers.  
+- Maintains reproducible code and workflow documentation
+
+---
 **Key Takeaways:**  
 - AlphaFold predicts protein structures with high accuracy.  
 - Useful for research in drug discovery, molecular biology, and bioinformatics.  
 - Free tools (AlphaFold DB and ColabFold) allow hands-on exploration.  
 - Understanding AlphaFold helps participants see the future of computational biology.
-:::
-

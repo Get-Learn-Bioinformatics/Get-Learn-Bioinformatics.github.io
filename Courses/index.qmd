@@ -1,0 +1,38 @@
+---
+title: "Courses"
+description: |
+  This page lists all workshops, talks, and sessions with details and thumbnails.
+listing:
+  - id: Basic Bioinformatics 
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description, image, start_date]
+    contents: 
+      - courses_1   # AlphaFold
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    filter-ui: false
+
+  - id: Computer Aided Drug Design
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description, image, start_date]
+    contents: 
+      - courses_2   # Scientific Design & PowerPoint
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    sort: "priority asc"
+    filter-ui: false
+---
+
+## Bioinformatics Talks
+
+::: {#bioinformatics}
+:::
+
+## Scientific Sessions
+
+::: {#scientific}
+:::

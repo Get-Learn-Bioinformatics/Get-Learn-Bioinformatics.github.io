@@ -1,0 +1,70 @@
+---
+title: "Integrating CADD & BioPython for Biomedical Research"
+description: "A hands-on course on computational drug design and Python-based bioinformatics for biomedical applications"
+start_date: "Next Course will be start on: 2026-05-24"
+categories: [Scientific Session]
+priority: 3
+---
+
+# Courses
+
+This course introduces an integrated approach to Computational Aided Drug Design (CADD) and BioPython programming to solve real-world biomedical research problems. Students will gain both conceptual understanding and practical skills in drug discovery and biological data analysis.
+
+---
+
+## 📘 Course Overview
+
+This course focuses on integrating Computational Drug Design (CADD) and Python programming (BioPython) to address biomedical research challenges. Participants will learn how to analyze protein structures, explore protein–ligand interactions, and apply computational workflows commonly used in modern drug discovery.
+
+The training emphasizes hands-on learning, enabling students to connect computational tools with real biomedical research problems.
+
+---
+
+## 🧠 What You Will Learn
+
+- **Computational Drug Design (CADD) Fundamentals**  
+  Introduction to molecular docking, drug-target interactions, and structure-based drug design concepts.
+
+- **Protein Structure Analysis & Visualization**  
+  Understanding protein structures and visualizing biomolecular interactions using computational tools.
+
+- **BioPython Programming**  
+  Practical Python-based bioinformatics for handling, analyzing, and processing biological datasets.
+
+- **Integrated Research Workflows**  
+  Combining CADD and BioPython into a unified pipeline for biomedical research applications.
+
+- **Data Analysis & Interpretation**  
+  Extracting meaningful insights from computational results and presenting them in a research context.
+
+---
+
+## 👥 Who Should Attend
+
+- Students in bioinformatics, biotechnology, pharmacy, and life sciences  
+- Beginners in computational drug design and Python programming  
+- Researchers interested in computational approaches to biomedical problems  
+
+---
+
+## 🚀 Course Outcomes
+
+By the end of this course, participants will be able to:
+
+- Apply CADD techniques to analyze protein–ligand interactions  
+- Use BioPython for biological sequence and structural data analysis  
+- Integrate computational tools into end-to-end biomedical research workflows  
+- Develop problem-solving skills for drug discovery and bioinformatics research  
+
+---
+
+## 📩 Contact
+
+For enrollment or more information, please contact the course page.
+
+---
+
+© 2026 Get Learn Bioinformatics
+---
+
+![](image.jpg)
