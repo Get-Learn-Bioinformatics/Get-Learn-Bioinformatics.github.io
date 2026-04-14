@@ -3,13 +3,13 @@ title: "Courses"
 description: |
   Explore all the courses offered by Get Learn Bioinformatics. 
 listing:
-  - id: Courses
+  - id: courses
     max-description-length: 500
     image-height: 150px
     fields: [image, title]
     contents: 
-      - Course_1
-      - Course_2
+      - course_1
+      - course_2
     type: grid
     grid-item-border: false
     categories: false
@@ -19,5 +19,5 @@ listing:
 
 Browse hands-on training, workshops, and research-focused modules in bioinformatics, computational biology, and biomedical research.
 
-::: {#Courses}
+::: {#courses}
 :::
