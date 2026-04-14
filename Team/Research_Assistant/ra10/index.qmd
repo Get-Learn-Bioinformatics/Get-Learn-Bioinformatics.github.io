@@ -17,6 +17,7 @@ Rubuya Amin Tasnim  is actively involved in learning and applying protein modeli
 
 ---
 **Key Contributions:**  
+
 - Supports computational biology and bioinformatics-based research activities
 - Practices protein structure analysis and molecular docking workflows
 - Contributes to research learning and student skill development
