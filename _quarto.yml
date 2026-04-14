@@ -31,19 +31,33 @@ website:
       - text: "Sessions & Talks"
         href: Sessions_Talks/index.qmd
       - text: "Blog"
-        href: blog/blog.qmd
+        href: blog/index.qmd
       - text: "Team"
         menu:
         - text: "Founding Members"
-          href: Founding_Member/index.qmd
+          href: Team/Founding_Member/index.qmd
         - text: "Research Assistant"
-          href: Research_Assistant/index.qmd
+          href: Team/Research_Assistant/index.qmd
         - text: "Campus Ambassador"
-          href: Campus_Ambassador/index.qmd
+          href: Team/Campus_Ambassador/index.qmd
       - text: "Contact"
-        href: blog/blog.qmd
-    right: []
-    search: true
+        href: Contact/Contact.qmd
+    right:
+      - icon: envelope
+        href: mailto:info.getlearnbioinformatics@gmail.com
+      - icon: facebook
+        href: https://facebook.com/getlearnbioinformatics
+        target: _blank
+      - text: "FB Group"
+        href: https://facebook.com/groups/934011292608963/
+        target: _blank
+      - icon: youtube
+        href: https://youtube.com/@getlearn_bioinformatics
+        target: _blank
+      - icon: instagram
+        href: https://instagram.com/p/DVtQOwqiUXX/
+        target: _blank
+  search: true
     
 format:
   html:

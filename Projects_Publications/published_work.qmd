@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+categories: [Bioinformatics, Publication, CADD]
 subtitle: "List of publications of GLB Instructors"
 image: "image.jpg"
 ---

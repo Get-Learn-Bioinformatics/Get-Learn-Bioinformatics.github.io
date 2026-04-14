@@ -1,0 +1,25 @@
+---
+title: "Nilanjana Halder"
+description: |
+  Research Assistant, Get Learn Bioinformatics
+  
+  3rd Year Student of Biochemistry and Molecular Biology at Jagannath University.
+
+image: "image.jpg" 
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rounded
+---
+::: {#hero-heading}
+
+Nilanjana Halder is actively involved in learning and applying protein modeling, molecular docking, structure analysis, and bioinformatics workflows. Her work supports GLB’s computational biology learning and research activities.
+
+---
+**Key Contributions:**  
+- Supports computational biology and bioinformatics-based research activities
+- Practices protein structure analysis and molecular docking workflows
+- Contributes to research learning and student skill development
+- Assists in maintaining structured and reproducible computational workflows
+:::
+
