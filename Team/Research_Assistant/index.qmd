@@ -1,120 +1,30 @@
 ---
 title: "Research Assistant"
 description: |  
-  Research Assistants, Get Learn Bioinformatics    Explore the profiles of our Research Assistants, including their academic background, roles, and contributions.    
-  
+  Research Assistants, Get Learn Bioinformatics  
+
+  Explore the profiles of our Research Assistants, including their academic background, roles, and contributions.  
+
   Click on any Research Assistant to view more detailed information.
 
 listing:
-  - id: ra1
-    max-description-length: 500
-    image-height: 150px
-    fields: [title, description, image]
-    contents: 
-      - ra1   
-    type: default
-    grid-item-border: true
-    grid-item-align: right
-    sort-ui: false
-    filter-ui: false
-
-  - id: ra2
-    max-description-length: 500
-    image-height: 250px
-    fields: [title, description, image]
-    contents: 
-      - ra2
-    type: default
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
-
-  - id: ra3
-    max-description-length: 500
-    image-height: 150px
-    fields: [title, description, image]
-    contents: 
-      - ra3
-    type: default
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
-
-  - id: ra4
-    max-description-length: 500
-    image-height: 150px
-    fields: [title, description, image]
-    contents: 
-      - ra4
-    type: default
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
-
-  - id: ra5
-    max-description-length: 500
-    image-height: 150px
-    fields: [title, description, image]
-    contents: 
-      - ra5
-    type: default
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
-
-  - id: ra6
-    max-description-length: 500
-    image-height: 150px
-    fields: [title, description, image]
-    contents: 
-      - ra6
-    type: default
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
-
-  - id: ra7
-    max-description-length: 500
-    image-height: 150px
-    fields: [title, description, image]
-    contents: 
-      - ra7
-    type: default
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
-
-  - id: ra8
-    max-description-length: 500
-    image-height: 150px
-    fields: [title, description, image]
-    contents: 
-      - ra8
-    type: default
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
-
-  - id: ra9
-    max-description-length: 500
-    image-height: 150px
-    fields: [title, description, image]
-    contents: 
-      - ra9
-    type: default
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
-
-  - id: ra10
-    max-description-length: 500
-    image-height: 150px
-    fields: [title, description, image]
-    contents: 
-      - ra10
-    type: default
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
+  id: ra
+  contents:
+    - ra1
+    - ra2
+    - ra3
+    - ra4
+    - ra5
+    - ra6
+    - ra7
+    - ra8
+    - ra9
+    - ra10
+  fields: [title, description, image]
+  max-description-length: 500
+  image-height: 150px
+  type: default
+  grid-item-border: false
+  sort-ui: false
+  filter-ui: false
 ---
-
